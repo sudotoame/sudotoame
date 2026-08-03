@@ -1,3 +1,3 @@
-# 💫 About Me
+# About Me
 
-- Изучаю программирования и девопс
+- Golang and Backend dev | DevOps
