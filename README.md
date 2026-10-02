@@ -1,3 +1,5 @@
 # About Me
 
-- Golang Backend Developer
+- I'm not afraid
+
+- I got mogged
